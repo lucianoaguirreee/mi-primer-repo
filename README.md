@@ -1,2 +1,4 @@
-# mi-primer-repo
-Mi primer repositorio en GitHub
+# Contenido de mi archivo
+Hola
+
+Convertimos "mi-archivo.md" al README.md asi lo vemos en la pantalla principal de GitHub.
